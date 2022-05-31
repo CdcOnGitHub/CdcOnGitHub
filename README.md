@@ -2,3 +2,4 @@
 # Check out these for a lot of other repositories
 # On this account there are only some private things lmfao
 beans.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CdcOnGitHub&hide=)
